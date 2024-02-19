@@ -10,9 +10,9 @@
 - As a Guest on the TripTix system, I want to search for a trip so I can see the available trips in the system. I want to book and pay to be able to own the ticket.
 
 ## 2.Technologies
-<img src="![image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/659d4bb4-a6b0-4eb6-8baa-3ee8189b26d1)">
+<img src="[image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/659d4bb4-a6b0-4eb6-8baa-3ee8189b26d1)">
 
 ## 3.Image Web & App
-<img src="![image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/a98687c7-f17f-45a3-80f2-1081770443dc)">
-<img src="!![image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/f3d74752-ff13-41e2-a6e1-a991b7e77df9)
+<img src="[image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/a98687c7-f17f-45a3-80f2-1081770443dc)">
+<img src="[image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/f3d74752-ff13-41e2-a6e1-a991b7e77df9)
 ">
