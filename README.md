@@ -12,8 +12,9 @@
 ## 2.Technologies
 ![305762263-659d4bb4-a6b0-4eb6-8baa-3ee8189b26d1](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/486dc9a9-eebd-4458-818e-3a47434c2130)
 
+3.Image Web & App
+![305763341-a98687c7-f17f-45a3-80f2-1081770443dc](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/52389538-484f-4a2c-bf1c-66e8d65bfa7b)
+- Link Web
+https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/a98687c7-f17f-45a3-80f2-1081770443dc)
 
-## 3.Image Web & App
-<img src="[image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/a98687c7-f17f-45a3-80f2-1081770443dc)">
-<img src="[image](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/f3d74752-ff13-41e2-a6e1-a991b7e77df9)
-">
+## ![305763550-f3d74752-ff13-41e2-a6e1-a991b7e77df9](https://github.com/haihung01/CapstoneProject-Full-src-code/assets/104615629/d15ad2d5-88e9-4c00-9352-e3be36abcf6e)
